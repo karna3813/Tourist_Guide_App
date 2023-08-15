@@ -93,7 +93,7 @@ const UpdatePlace = () => {
         /> */}
 
         <Button type = "submit" disabled ={true}>
-            UPDATE PLACE
+            UPDATED PLACE
         </Button>
     </form>
 };
